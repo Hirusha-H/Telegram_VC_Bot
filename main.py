@@ -328,5 +328,4 @@ async def send(text):
 print("\nBot Starting...\nFor Support Join https://t.me/PatheticProgrammers\n")
 
 
-app.start()
-run()
+app.run()
