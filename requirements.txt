@@ -1,5 +1,4 @@
 OpenCC
-python 3.9.2
 Pillow
 pytgcalls
 ffmpeg-python
@@ -8,3 +7,4 @@ Pyrogram
 TgCrypto
 youtube_dl
 aiofiles
+python-dotenv
