@@ -1,4 +1,5 @@
 OpenCC
+Python
 Pillow
 pytgcalls
 ffmpeg-python
