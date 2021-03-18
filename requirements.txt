@@ -1,6 +1,6 @@
 OpenCC
 Pillow
-git+https://github.com/pytgcalls/pytgcalls
+pytgcalls
 ffmpeg-python
 python-arq
 Pyrogram
